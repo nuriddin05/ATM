@@ -6,7 +6,7 @@ import static ATM.Constants.*;
 
 public class ATM {
     static long[] kartalar = {8600000000000000L, 9860000000000000L, 8600000000000001L, 9860000000000001L};
-    static int kartaParoli = 40_00;
+    static int kartaParoli = 50_00;
     static int[] kartaParollari = {40_00, 50_00, 60_00, 70_00};
     static int kartaPuli = 1_000_000;
     static int[] kartaPullari = {1_000_000,2_000_000,3_000_000,4_000_000};
